@@ -1,6 +1,5 @@
 {
-  "homepage": "http://sajib21.github.io/kajkam",
-  "name": "kajkam",
+  "name": "Trello",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

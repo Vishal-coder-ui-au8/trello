@@ -8,7 +8,7 @@ class Navbar extends Component {
       <div className="fixed-top navbar-dark bg-dark">
         <div className="row my-3">
           <div className="col-4 text-left">
-            <a className="text-white" style={{ padding: "5px"  }} href="#">
+            <a className="text-white" style={{ padding: "5px"  }} href="/">
               Home
             </a>
           </div>
@@ -19,7 +19,7 @@ class Navbar extends Component {
                 fontSize:"150%",
                 color:"white" 
               }}
-              href="#"
+              href="/"
             >
               Trello
             </a>
